@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · WkWglXlB -->
-## Notification 1/2
-Round: Round 1
-To: gwagner@3rivers.net, epogo2@comcast.net
-At: 2026-09-16 13:45:25
-Id: WkWglXlB
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: switzermikesue@aol.com, dbrown@integoinsurance.com
+At: 2026-09-16 13:45:34
+Id: C8CPvtl4
